@@ -1,2 +1,6 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Dart for fun
+
+## TODOs
+
+- [x] create a simple stream
+- [ ] create a useful test for it
